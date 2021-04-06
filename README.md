@@ -4,16 +4,16 @@ Este repositório tem como objetivo armazenar as resoluções dos problemas de i
 
 * Informações da disciplina:
 
-Nome: Álgebra Linear Aplicada
-Programa: Programa de Pós Graduação em Matemática da Universidade Federal do Paraná (PPGM UFPR)
-Período: primeiro semestre de 2021
-Professor:  Geovani Nunes Grapiglia
+Nome: Álgebra Linear Aplicada <br />
+Programa: Programa de Pós Graduação em Matemática da Universidade Federal do Paraná (PPGM UFPR br />
+Período: primeiro semestre de 2021 <br />
+Professor:  Geovani Nunes Grapiglia <br />
 
-* Conteúdos: 
+* Conteúdos: <br />
 
-Semana 1: Sistemas Triangulares e Método de Eliminação de Gauss (aulas 1 e 2)
-Semana 2: Fatoração LU (aulas 3 e 4)
-Semana 3: Fatoração de Cholesky (aulas 5 e 6)
+Semana 1: Sistemas Triangulares e Método de Eliminação de Gauss (aulas 1 e 2) <br />
+Semana 2: Fatoração LU (aulas 3 e 4) <br />
+Semana 3: Fatoração de Cholesky (aulas 5 e 6) <br />
 Semana 4: Problema de Mínimos Quadrados e Fatoração QR Incompleta (aulas 7 e 8)
 Semana 5: Fatoração QR Completa via Transformações de Householder e Givens (aulas 9 e 10)
 Semana 6: Método dos Gradientes Conjugados e Introdução ao Problema de Autovalores e Autovetores (aulas 11 e 12)
