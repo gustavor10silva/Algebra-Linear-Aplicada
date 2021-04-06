@@ -2,14 +2,14 @@
 
 Este repositório tem como objetivo armazenar as resoluções dos problemas de implementação da disciplina de Álgebra Linear Aplicada.
 
-* Informações da disciplina:
+## Informações da disciplina:
 
 Nome: Álgebra Linear Aplicada <br />
 Programa: Programa de Pós Graduação em Matemática da Universidade Federal do Paraná (PPGM UFPR) <br />
 Período: primeiro semestre de 2021 <br />
 Professor:  Geovani Nunes Grapiglia <br />
 
-* Conteúdos: <br />
+## Conteúdos: <br />
 
 Semana 1: Sistemas Triangulares e Método de Eliminação de Gauss (aulas 1 e 2) <br />
 Semana 2: Fatoração LU (aulas 3 e 4) <br />
